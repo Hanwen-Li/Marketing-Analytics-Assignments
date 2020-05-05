@@ -1,6 +1,6 @@
 # Marketing-Analytics-Practices
-- RStudio Coding is in HTML files.
-- Q&A is in PDF files.
+- Coding files.
+- Q&A files.
 
 ## Assignment 1
 - Correlation Matrics / Dot Plots / Histograms
